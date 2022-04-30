@@ -1,0 +1,36 @@
+C:\Users\Diego\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Diego\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Diego\source\repos\Entidades\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Diego\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.pdb
+D:\Users\Diego\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.deps.json
+D:\Users\Diego\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.dll
+D:\Users\Diego\source\repos\Entidades\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+D:\Users\Diego\source\repos\Entidades\Entidades\bin\Debug\net5.0\Entidades.pdb
+D:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+D:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+D:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.dll
+D:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+D:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.pdb
+D:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\Entidades\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Diego\Desktop\UTN\Trabajos Practicos - Ormeño Diego 2A\TP 1\Entidades\obj\Debug\net5.0\Entidades.pdb
