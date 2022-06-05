@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Es6k26gBKk5TaEab5rJ38peDoDWk3wQOCWMARPkOqOFUj6/pSfbPFDe3+TjScybpRk4akPJKdPp7Us+RVyZnXA==",
+  "dgSpecHash": "wepzcJJAr3m5oTnU8IqBbiMMUAfXsKf9UbrA73TYm9sNthEtGfsdKH0aAchHFJTLTFb5QLU6sT+WMCXGsfnW1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego\\Desktop\\UTN\\Materias\\tps_laboratorio_ii-master\\TP 3\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Users\\Diego\\source\\repos\\Ormeño.Diego.2A.tp3\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
