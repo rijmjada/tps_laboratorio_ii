@@ -9,3 +9,4 @@ C:\Users\Diego\source\repos\Ormeño.Diego.2A.tp3\Entidades\bin\Debug\net5.0\Enti
 C:\Users\Diego\source\repos\Ormeño.Diego.2A.tp3\Entidades\obj\Debug\net5.0\Entidades.dll
 C:\Users\Diego\source\repos\Ormeño.Diego.2A.tp3\Entidades\obj\Debug\net5.0\ref\Entidades.dll
 C:\Users\Diego\source\repos\Ormeño.Diego.2A.tp3\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Diego\source\repos\Ormeño.Diego.2A.tp3\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache

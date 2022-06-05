@@ -23,7 +23,7 @@ namespace Entidades
             }
             catch (Exception ex)
             {
-                throw new Exception(ex.Message, ex.InnerException);
+                throw new XMLExeption();
             }
         }
 
@@ -42,7 +42,7 @@ namespace Entidades
             }
             catch (Exception ex)
             {
-                throw new Exception(ex.Message, ex.InnerException);
+                throw new XMLExeption();
             }
         }
     }
