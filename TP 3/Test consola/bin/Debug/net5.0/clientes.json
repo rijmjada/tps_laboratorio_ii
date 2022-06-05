@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cliente>
+    <Nombre>Susana</Nombre>
+    <Apellido>Lopez</Apellido>
+    <Dni>24423456</Dni>
+    <Direccion>Balvin 3164</Direccion>
+    <ListaCompras />
+  </Cliente>
+  <Cliente>
+    <Nombre>Romina</Nombre>
+    <Apellido>Gonzalez</Apellido>
+    <Dni>24423456</Dni>
+    <Direccion>Saraza 324</Direccion>
+    <ListaCompras />
+  </Cliente>
+  <Cliente>
+    <Nombre>Julieta</Nombre>
+    <Apellido>Salvador</Apellido>
+    <Dni>24423456</Dni>
+    <Direccion>Corrientes 354</Direccion>
+    <ListaCompras />
+  </Cliente>
+  <Cliente>
+    <Nombre>Antonio</Nombre>
+    <Apellido>Gutierrez</Apellido>
+    <Dni>24423456</Dni>
+    <Direccion>Callao 346</Direccion>
+    <ListaCompras />
+  </Cliente>
+  <Cliente>
+    <Nombre>Karin</Nombre>
+    <Apellido>Fernandez</Apellido>
+    <Dni>24423456</Dni>
+    <Direccion>Hornos 314</Direccion>
+    <ListaCompras />
+  </Cliente>
+</ArrayOfCliente>
