@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\bin\Debug\net5.0\DBA.deps.json
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\bin\Debug\net5.0\DBA.dll
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\bin\Debug\net5.0\ref\DBA.dll
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\bin\Debug\net5.0\DBA.pdb
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\bin\Debug\net5.0\Entidades.dll
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\obj\Debug\net5.0\DBA.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\obj\Debug\net5.0\DBA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\obj\Debug\net5.0\DBA.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\obj\Debug\net5.0\DBA.AssemblyInfo.cs
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\obj\Debug\net5.0\DBA.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\obj\Debug\net5.0\DBA.csproj.CopyComplete
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\obj\Debug\net5.0\DBA.dll
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\obj\Debug\net5.0\ref\DBA.dll
+C:\Users\Diego\Desktop\UTN\Materias\tps_laboratorio_ii-master\TP 3\DBA\obj\Debug\net5.0\DBA.pdb
